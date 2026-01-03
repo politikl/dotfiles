@@ -12,6 +12,4 @@ Run the install script
 ```bash
 ./install.sh
 ```
-
-
-I use asahi linux with hyprland btw
+asahi ftw btw
