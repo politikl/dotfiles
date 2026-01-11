@@ -10,8 +10,8 @@ apply_warm_theme() {
         --transition-duration 1.5 \
         --transition-fps 60
 
-    hyprctl keyword general:col.active_border "rgb(c17f59)"
-    hyprctl keyword general:col.inactive_border "rgb(252320)"
+    hyprctl keyword general:active_border "rgb(c17f59)"
+    hyprctl keyword general:inactive_border "rgb(252320)"
     hyprctl keyword decoration:rounding 14
     hyprctl keyword general:border_size 1
 }
