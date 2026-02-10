@@ -29,7 +29,6 @@
 	"network",
 	"bluetooth",
 	"pulseaudio",
-	"custom/cava",
 	"backlight",
 	"battery"
 	]
