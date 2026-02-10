@@ -2,7 +2,7 @@
 
 Clone the repository:
 ```bash
-git clone https://github.com/politikl/dotfiles ~/dotfiles
+git clone https://github.com/areoyl/dotfiles ~/dotfiles
 ```
 Go to the dotfiles directory
 ```bash
